@@ -13,7 +13,7 @@ This lightweight Python script is a basic port scanner designed to help you expl
 1. Clone the repository to your local machine.
 2. Run the script, providing the target IP address and desired port range as parameters.
    ```bash
-   python port_scanner.py 192.168.1.1 1-1000
+   python port_scanner.py 
    ```
 3. Analyze the results to identify open ports and potential services.
 
